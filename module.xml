@@ -1,0 +1,12 @@
+<module>
+	<rawname>phpinfo</rawname>
+	<name>PHP Info</name>
+	<version>1.0</version>
+	<type>tool</type>
+	<category>Basic</category>
+	<menuitems>
+		<phpinfo>PHP Info</phpinfo>
+	</menuitems>
+	<location>release/phpinfo-1.0.tgz</location>
+	<info>http://freepbx.org/wiki/PhpInfo</info>
+</module>
