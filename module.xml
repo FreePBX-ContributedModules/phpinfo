@@ -8,6 +8,6 @@
 		<phpinfo>PHP Info</phpinfo>
 	</menuitems>
 	<location>release/phpinfo-1.0.tgz</location>
-	<info>http://freepbx.org/wiki/PhpInfo</info>
+	<info>http://aussievoip.com.au/wiki/freePBX-phpinfo</info>
 	<md5sum>36409f592e8c04d3f15caafa2d9cf875</md5sum>
 </module>
