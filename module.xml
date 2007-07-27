@@ -1,7 +1,10 @@
 <module>
 	<rawname>phpinfo</rawname>
 	<name>PHP Info</name>
-	<version>1.0</version>
+	<version>1.1.0</version>
+	<changelog>
+		*1.1.0* #1442 remove access problem and iframe
+	</changelog>
 	<type>tool</type>
 	<category>System Administration</category>
 	<menuitems>
