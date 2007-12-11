@@ -1,8 +1,9 @@
 <module>
 	<rawname>phpinfo</rawname>
 	<name>PHP Info</name>
-	<version>1.1.0.1</version>
+	<version>2.4.0</version>
 	<changelog>
+		*2.4.0* bump for 2.4
 		*1.1.0.1* bump for rc1
 		*1.1.0* #1442 remove access problem and iframe
 	</changelog>
@@ -11,6 +12,6 @@
 	<menuitems>
 		<phpinfo>PHP Info</phpinfo>
 	</menuitems>
-	<location>release/2.3/phpinfo-1.1.0.1.tgz</location>
-	<md5sum>00dbb7252b3da7f78c36187a4322f879</md5sum>
+	<location>release/2.4/phpinfo-2.4.0.tgz</location>
+	<md5sum>0e6ea851b19fb8d25ee210e4d5bacc7b</md5sum>
 </module>
