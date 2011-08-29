@@ -8,15 +8,8 @@
 	<changelog>
 		*2.9.0.1* set repository
 		*2.9.0.0* 2.9 Update
-		*2.8.0.0* published 2.8 version
-		*2.7.0.0* localizations
-		*2.6.0.0* misc
-		*2.4.0* bump for 2.4
-		*1.1.0.1* bump for rc1
-		*1.1.0* #1442 remove access problem and iframe
 	</changelog>
-	<type>tool</type>
-	<category>System Administration</category>
+	<category>Reports</category>
 	<menuitems>
 		<phpinfo>PHP Info</phpinfo>
 	</menuitems>
