@@ -15,6 +15,6 @@
 	<menuitems>
 		<phpinfo>PHP Info</phpinfo>
 	</menuitems>
-	<location>release/2.10/phpinfo-2.10.0.0.tgz</location>
-	<md5sum>b88b498304c12115aa6c421a3b45fb6d</md5sum>
+	<location>release/2.10/phpinfo-2.10.0.1.tgz</location>
+	<md5sum>a0e989069891e76137ebdd4de3a2e4c5</md5sum>
 </module>
