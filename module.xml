@@ -18,4 +18,4 @@
 	</menuitems>
 	<location>release/2.11/phpinfo-2.11.0.0.tgz</location>
 	<md5sum>901dc94029a10e680d2fc7aab3f10123</md5sum>
-</module>
+<supported><version>2.11</version></supported></module>
