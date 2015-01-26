@@ -12,18 +12,36 @@ if (!defined('FREEPBX_IS_AUTH')) { die('No direct script access allowed'); }
  *
  */
 ?>
-<table>
-<tr>
-<td>
-<div id="phpinfo">
+
 <?php 
     ob_start () ;
     phpinfo () ;
     $pinfo = ob_get_contents () ;
     ob_end_clean () ;
-    echo ( preg_replace ( '%^.*<body>(.*)</body>.*$%ms', '$1', $pinfo ) ) ;
 ?>
+
+<div class="container-fluid">
+	<div class = "display full-border">
+		<div class="row">
+			<div class="col-sm-12">
+				<div class="fpbx-container">
+					<div class="display full-border">
+						<?php echo $pinfo ?>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
-</td>
-</tr>
-</table>
+<script type="text/javascript">
+$(document).ready(function(){
+	$("table").each(function(){
+        $(this).addClass('table');
+        $(this).addClass('table-striped');
+        $(this).addClass('table-bordered');
+    });
+    $("hr").each(function(){
+    	$(this).addClass('hidden');
+    });
+});
+</script>
