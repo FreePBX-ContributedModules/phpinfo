@@ -20,7 +20,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-11 18:04-0500\n"
+"POT-Creation-Date: 2015-02-20 19:48-0500\n"
 "PO-Revision-Date: 2012-11-02 12:23+0400\n"
 "Last-Translator: root <ceo@postmet.com>\n"
 "Language-Team: Russian\n"
@@ -30,8 +30,10 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
 "10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-#~ msgid "PHP Info"
-#~ msgstr "Информация о PHP"
+#: phpinfo.i18n.php:3 phpinfo.i18n.php:5
+msgid "PHP Info"
+msgstr "Информация о PHP"
 
-#~ msgid "Reports"
-#~ msgstr "Отчеты"
+#: phpinfo.i18n.php:4
+msgid "Reports"
+msgstr "Отчеты"
