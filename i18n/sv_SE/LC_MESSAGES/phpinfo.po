@@ -20,7 +20,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreePBX\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-09 12:30-0400\n"
+"POT-Creation-Date: 2015-06-19 18:26-0400\n"
 "PO-Revision-Date: 2011-03-20 00:00+0100\n"
 "Last-Translator: Mikael Carlsson <mickecamino@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,13 +28,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: phpinfo.i18n.php:4 phpinfo.i18n.php:8
-msgid "PHP Info"
-msgstr "PHP-information"
-
-#: phpinfo.i18n.php:6 phpinfo.i18n.php:10
-msgid "Reports"
-msgstr ""
+#~ msgid "PHP Info"
+#~ msgstr "PHP-information"
 
 #~ msgid "System Administration"
 #~ msgstr "Systemadministration"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreePBX v2.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-09 12:30-0400\n"
+"POT-Creation-Date: 2015-06-19 18:26-0400\n"
 "PO-Revision-Date: 2014-07-22 12:17+0200\n"
 "Last-Translator: Chavdar <chavdar_75@yahoo.com>\n"
 "Language-Team: Bulgarian <http://git.freepbx.org/projects/freepbx/phpinfo/bg/"
@@ -22,10 +22,8 @@ msgstr ""
 "X-Poedit-Country: BULGARIA\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
-#: phpinfo.i18n.php:4 phpinfo.i18n.php:8
-msgid "PHP Info"
-msgstr "PHP Информация"
+#~ msgid "PHP Info"
+#~ msgstr "PHP Информация"
 
-#: phpinfo.i18n.php:6 phpinfo.i18n.php:10
-msgid "Reports"
-msgstr "Отчети"
+#~ msgid "Reports"
+#~ msgstr "Отчети"
