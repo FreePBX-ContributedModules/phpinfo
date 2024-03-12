@@ -37,7 +37,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreePBX 2.10.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-16 13:26+0000\n"
+"POT-Creation-Date: 2024-03-12 02:34-0400\n"
 "PO-Revision-Date: 2013-11-07 13:17+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -47,10 +47,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.7\n"
 
-#: phpinfo.i18n.php:4 phpinfo.i18n.php:8
-msgid "PHP Info"
-msgstr "PHP情報"
+#~ msgid "PHP Info"
+#~ msgstr "PHP情報"
 
-#: phpinfo.i18n.php:6
-msgid "Reports"
-msgstr "レポート"
+#~ msgid "Reports"
+#~ msgstr "レポート"

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-16 13:26+0000\n"
+"POT-Creation-Date: 2024-03-12 02:34-0400\n"
 "PO-Revision-Date: 2016-12-13 02:27+0200\n"
 "Last-Translator: Alexander <alexander.schley@paranagua.pr.gov.br>\n"
 "Language-Team: Portuguese (Brazil) <http://weblate.freepbx.org/projects/"
@@ -21,10 +21,8 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2.4\n"
 
-#: phpinfo.i18n.php:4 phpinfo.i18n.php:8
-msgid "PHP Info"
-msgstr "Info PHP"
+#~ msgid "PHP Info"
+#~ msgstr "Info PHP"
 
-#: phpinfo.i18n.php:6
-msgid "Reports"
-msgstr "Relatórios"
+#~ msgid "Reports"
+#~ msgstr "Relatórios"
